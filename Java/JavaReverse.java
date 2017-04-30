@@ -30,7 +30,6 @@ public class JavaReverse{
 			}
 
 			while((str=is2.readLine()) != null) {
-			
 
 				for(int i=str.length()-1; i>=0; i--)
 				{
